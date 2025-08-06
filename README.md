@@ -6,7 +6,15 @@ Actively seeking comp sci co-ops/internships
 - ✒️ **I'm currently working on:**  
   **"Monster Cards"** - UE5 dungeon-themed card games featuring skeletal characters  
   → Expanding with different themed private room maps & scalable multiplayer lobbies  
-  **Authorship** - Simultaneously publishing fantasy fiction on Webnovel.com 
+  **Authorship** - Simultaneously publishing fantasy fiction on Webnovel.com
+ 
+ <div align="center">
+  
+<img src="https://oversea-bookcover.webnovel.com/cover/33238640500635605/1752505718734.jpeg" alt="Monster Cards Cover" width="200"/>
+
+<em>Cover art for current novel</em>
+
+</div>
 
 - ⚙️ **I'm currently mastering:**  
   **Languages:** C++, JavaScript, Dart, HTML, Blueprint (UE5)  
@@ -17,8 +25,11 @@ Actively seeking comp sci co-ops/internships
   → Actively pursuing **game dev or CS internships/co-ops** and **project sponsorships**  
 
 - 📫 **Reachout to me:**  
-  Professional: [hollentb@mail.uc.edu](mailto:hollentb@mail.uc.edu)  
+  Professional: [hollentb@mail.uc.edu](mailto:hollentb@mail.uc.edu)
+  
   Project Updates: [Reddit/r/Ash_Tree_Games](https://www.reddit.com/r/Ash_Tree_Games) (devlogs & releases)
+
+  Webnovel: [Author Page - Biggie Chugs](https://www.webnovel.com/profile/4500191509) (novel releases)
 
 - ⚡ **Fun Fact - Fueled by curiosity:**  
   My ever-growing hobby collection (from automotive mechanics to history and geography) creates adaptable problem-solving perspectives across creative and technical domains.
